@@ -1,0 +1,21 @@
+/* General page style */
+body {
+  background-color: #1a1a1a;
+  color: white;
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 50px;
+}
+
+/* Heading style */
+h1 {
+  color: #ff6f61;
+  font-size: 2.5em;
+  margin-bottom: 20px;
+}
+
+/* Audio player style */
+audio {
+  margin-top: 30px;
+  outline: none;
+}
